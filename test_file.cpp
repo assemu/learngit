@@ -1,4 +1,5 @@
 #include <iostream>
+#include <opencv/opencv2.hpp>
 
 int main(int argc, char** argv)
 {
