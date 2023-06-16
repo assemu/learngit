@@ -1,0 +1,26 @@
+#plc
+plc_id="5.48.73.166.1.1"
+plc_port=851
+
+#程序运行的主目录,确保有读写权限
+app_home_dir="c:/ProgramData/GlassFlawDetect"
+
+#数据保存文件夹,确保有读写权限
+data_save_dir="E:/glass_images_v2_2edge"
+
+#模拟运行时图片数据保存位置
+mock_data_dir="D:/WORK/FuYao/mock_data"
+
+#日志记录的级别 trace debug info warning error
+log_level="trace"
+
+#是否保存原图片
+save_orignal_images = false
+
+############## 图片拼合 #######################
+face_image_combiner_scale_factor=0.2
+edge_image_combiner_scale_factor=0.2
+
+front_image_combiner_stagger=-320
+back_image_combiner_stagger=-150
+top_image_combiner_stagger=-150

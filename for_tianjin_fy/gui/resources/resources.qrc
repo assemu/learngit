@@ -1,0 +1,27 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file alias="logo">icons/logo.png</file>
+  <file alias="splash">pics/splash.png</file>
+  <file>icons/start_run.png</file>
+  <file>icons/stop_run.png</file>
+  <file>icons/open_dir.png</file>
+  <file>icons/io_card.png</file>
+  <file>icons/tool.png</file>
+  <file>icons/settings.png</file>
+  <file>icons/audit.png</file>
+  <file>icons/OK.png</file>
+  <file>icons/NOK.png</file>
+  <file>icons/report.png</file>
+  <file>icons/full_screen.png</file>
+  <file>icons/quit_app.png</file>
+  <file>icons/calibrate.png</file>
+  <file>icons/help_book.png</file>
+  <file>icons/global_settings.png</file>
+  <file>icons/user.png</file>
+  <file>icons/login.png</file>
+  <file>icons/logout.png</file>
+
+  <file>icons/glass_type.png</file>
+  <file>icons/glass_batch.png</file>
+</qresource>
+</RCC>

@@ -1,0 +1,9 @@
+bright
+circle
+dark
+dirty
+scratch
+water
+xfibre
+y1
+y2
